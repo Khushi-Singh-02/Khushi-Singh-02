@@ -8,7 +8,8 @@ using interdisciplinary experimental and computational approaches and increasing
 (This does not apply to my admissions essays, I am currently on draft #38538691378438542 of my statement of purpose and hope to never see one again😭)
 - I love collaborating with people with diverse research interests, please feel free to reach out to me at singhk011235813@gmail.com (Yes, my name is so common I need
 to make ids with the Fibonacci sequence.)
-- Thank you for visiting my profile! Drop me a mail if you're interested in my work or have cool brain or octopus facts to share!
+- Thank you for visiting! Drop me a mail if you're interested in my work or have cool brain or octopus facts to share!
+- 
 -K
 
 <!---
