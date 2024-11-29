@@ -1,4 +1,4 @@
-- Hi, I’m Khushi, you can call me K! I am a final-year undergraduate at the Indian Institute of Technology (IIT) Delhi majoring in biotechnology. 
+Hi, I’m Khushi, you can call me K! I am a final-year undergraduate at the Indian Institute of Technology (IIT) Delhi majoring in biotechnology. 
 - I am interested in systems and computational neuroscience, neuroimaging, bioinformatics and genetic engineering. I am an aspiring PhD student who hopes to join 
 a lab with an amazing collaborative environment where I can attempt to solve interesting neuroscience research questions (like the neuronal basis of differences
 in cognition across individuals, does the brain really give rise to consciousness and how, how do we learn and can we make computers do more of our thinking for us 
