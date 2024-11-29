@@ -9,7 +9,7 @@ using interdisciplinary experimental and computational approaches and increasing
 - I love collaborating with people with diverse research interests, please feel free to reach out to me at singhk011235813@gmail.com (Yes, my name is so common I need
 to make ids with the Fibonacci sequence.)
 - Thank you for visiting! Drop me a mail if you're interested in my work or have cool brain or octopus facts to share!
-- 
+  
 -K
 
 <!---
