@@ -1,6 +1,6 @@
 Hi, I’m Khushi, you can call me K! I am a final-year undergraduate at the Indian Institute of Technology (IIT) Delhi majoring in biotechnology. 
 - I am interested in systems and computational neuroscience, neuroimaging, bioinformatics and genetic engineering. I am an aspiring PhD student who hopes to join 
-a lab with an amazing collaborative environment where I can attempt to solve fascinaitng neuroscience research questions (like the neuronal basis of differences
+a lab with a friendly, supportive environment where I can attempt to solve fascinaitng neuroscience research questions (like the neuronal basis of differences
 in cognition across individuals, does the brain really give rise to consciousness and if so, how?, how do we learn and can we make computers do more of our thinking for us 
 to get more time for doomscrolling and HOW DOES THE BRAIN WORK??? a.k.a. can I blame all my bad decisions on Sodium influx - Potassium efflux) 
 using interdisciplinary experimental and computational approaches and increasingly more unhinged methodolgies until something sticks :) 
